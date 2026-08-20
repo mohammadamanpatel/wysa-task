@@ -7,7 +7,7 @@ import coversationRoutes from "./routes/conversation.routes.js";
 const app = express();
 app.use(express.json());
 app.get("/api/docs", (req, res) => {
-  res.redirect("");
+  res.redirect(`${API_DOCS_URL}`);
 });
 app.use("/api/v1/module",moduleRoutes)
 app.use("/api/v1/conversation",coversationRoutes)
