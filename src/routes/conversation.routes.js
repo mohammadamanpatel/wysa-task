@@ -16,6 +16,6 @@ router.get("/current", getCurrentState);
 router.get("/history", getHistory);
 
 // Handle old/deep links
-router.get("/question/:questionId", getQuestionFromDeepLink);
+router.get("/question/:userId/:questionId", getQuestionFromDeepLink);
 
 export default router;
