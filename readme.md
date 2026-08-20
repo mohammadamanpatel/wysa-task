@@ -4,6 +4,12 @@ A backend service that manages modular, question-based conversation flows.
 
 A user can start a module, answer questions, move to another question, switch between modules, return to previously visited modules, and maintain complete conversation history.
 
+## Live Deployment
+
+**Backend URL:** https://wyse-task.onrender.com
+
+**Postman URL:** https://www.postman.com/amans-team-4963/workspace/wyse-task/request/30730048-012629a9-487b-44d4-b232-fba788872089?action=share&creator=30730048
+
 ## Tech Stack
 
 - Node.js
