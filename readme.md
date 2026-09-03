@@ -8,7 +8,7 @@ A user can start a module, answer questions, move to another question, switch be
 
 **Backend URL:** https://wyse-task.onrender.com
 
-**Postman URL:** https://www.postman.com/amans-team-4963/workspace/wyse-task/request/30730048-012629a9-487b-44d4-b232-fba788872089?action=share&creator=30730048
+**Postman URL:** https://www.postman.com/amans-team-4963/workspace/wysa-task/request/30730048-f8674ed4-ded5-4491-8122-5b2eefc5c9a8?action=share&creator=30730048
 
 ## Tech Stack
 
